@@ -70,7 +70,9 @@ The trained model is used as a tool inside an AI agent: [Company Risk Assistant]
 
 ## Tech
 
-Python, pandas, scikit-learn, imbalanced-learn, matplotlib.
+**Topic:** Machine Learning, classification, credit risk (imbalanced data)
+
+**Tools:** Python, pandas, scikit-learn, imbalanced-learn, matplotlib, Jupyter Notebook
 
 ## Author
 Shraddha Nimbalkar
