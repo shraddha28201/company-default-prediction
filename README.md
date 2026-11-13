@@ -34,10 +34,10 @@ The comparison table is in Section 5 of the notebook.
 
 | Metric | Value |
 |---|---|
-| ROC-AUC | 0.941 |
-| PR-AUC | 0.623 |
-| Precision (default class) | 0.66 |
-| Recall (default class) | 0.61 |
+| ROC-AUC | 0.942 |
+| PR-AUC | 0.614 |
+| Precision (default class) | 0.63 |
+| Recall (default class) | 0.62|
 | F1 (default class) | 0.63 |
 
 In simple words: the model catches about 6 in 10 real defaults, and about 2 in 3 flagged companies are real defaults.
